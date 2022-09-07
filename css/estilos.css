@@ -15,11 +15,11 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 2.5cm;
+    padding: 0.5cm;
     
 }
 
-#cabecera
+#cabecera #tagline
 {
     padding: 0 0 0 1em;
     font-weight: normal;
